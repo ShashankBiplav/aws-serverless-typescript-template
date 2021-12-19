@@ -1,0 +1,10 @@
+{
+  "name": "aws-serverless-typescript-template",
+  "version": "1.0.0",
+  "description": "A template for AWS Lambda Serverless typescript functions",
+  "main": "index.js",
+  "repository": "https://github.com/ShashankBiplav/aws-serverless-typescript-template.git",
+  "author": "Shashank Biplav",
+  "license": "MIT",
+  "private": false
+}
